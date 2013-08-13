@@ -49,12 +49,12 @@ ul {
 	padding: 20px 10px;
 	margin: auto;
 	border-top: 1px solid #304449;
-	background-color: #788DA3;
+	background-color: none;
 }
 button, #submit {
 	background: none;
 	text-decoration: none;
-	background-color: #304247;
+	background-color: none;
 	color: #63777C;
 	border: solid 1px #52666B;
 	cursor: pointer;
